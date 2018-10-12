@@ -17,7 +17,7 @@ import { AgmCoreModule } from '@agm/core';
     CommonModule,
     FormsModule,
     AgmCoreModule.forRoot({
-      apiKey: ''
+      apiKey: 'AIzaSyC3YEpy9U6VHrfsE-aUZ_HLrxJ6cBTT_zM'
     })
   ],
   providers: [],

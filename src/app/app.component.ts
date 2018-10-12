@@ -7,6 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-GoogleMaps';
-  lat = 20.833333;
-  lng = -89;
+  lat = 20.97;
+  lng = -89.62;
+
+  onChoseLocation(event) {
+    console.log(event);
+  }
 }
